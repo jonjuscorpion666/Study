@@ -10,5 +10,10 @@
 =>Relative monads
 
 
+Back to basics
+
+=> Difference between map and flatmap (back to basics) :http://www.brunton-spall.co.uk/post/2011/12/02/map-map-and-flatmap-in-scala/
+
+
 
 
