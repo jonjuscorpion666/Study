@@ -8,6 +8,9 @@
    http://www.warski.org/blog/2012/12/starting-with-scala-macros-a-short-tutorial/
    
 =>Relative monads
+http://debasishg.blogspot.com.au/2011/07/monad-transformers-in-scala.html
+
+=>Monads dont compose
 
 
 Back to basics
