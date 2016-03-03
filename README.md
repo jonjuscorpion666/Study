@@ -22,6 +22,7 @@ Back to basics
 "Given a function f that takes an A and returns a B, how can we construct a new function that takes an M[A] and returns an M[B] for any M"
 
 => Implicits
-http://www.slideshare.net/DerekWyatt1/scala-implicits-not-to-be-feared
+http://www.slideshare.net/DerekWyatt1/scala-implicits-not-to-be-feared 
+
 http://www.drmaciver.com/2008/03/an-introduction-to-implicit-arguments/
 
