@@ -16,4 +16,4 @@ Back to basics
 
 => Functor : http://www.casualmiracles.com/2012/01/08/a-small-functor-example/
 
-
+"Given a function f that takes an A and returns a B, how can we construct a new function that takes an M[A] and returns an M[B] for any M"
