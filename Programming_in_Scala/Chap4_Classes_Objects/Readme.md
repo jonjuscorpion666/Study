@@ -6,9 +6,9 @@ Classes and Objects
 
 ->	Scala Int object is converted internally in java.int or Integer Objects.
 
-->	Fuctions inside a class is know as methords and when it is inside object its 	 know as functions.
+->	Fuctions inside a class is know as methods and when it is inside object its 	 know as functions.
 
--> methords without "=" will always return Unit.
+-> Methods without "=" returns unit and these methods are called as procedures
 
 -> Main function dont have "=" as its expected to return Unit.
 
