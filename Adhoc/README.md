@@ -27,3 +27,5 @@ http://www.slideshare.net/DerekWyatt1/scala-implicits-not-to-be-feared
 
 http://www.drmaciver.com/2008/03/an-introduction-to-implicit-arguments/
 
+Scalaz study -https://github.com/scala-study-group/learning-scalaz
+
