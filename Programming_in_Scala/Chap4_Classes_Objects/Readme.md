@@ -1,4 +1,6 @@
 
+Chapter 4 
+Classes and Objects 
 
 ->	In scala primitive data types are also considered as Objects.
 
@@ -12,21 +14,23 @@
 
 -> Methords that dont return a value is called procedure.
 
--> Shadowing is supported in scala . Ie local variable and external variables   can be used same name. And Inside methord local variables with take preference
+-> Shadowing is supported in scala . Ie local variable and external variables   can be used same name. And Inside methord local variables will take preference
 
 -> Singlton objects are same as static in java. Create only one instance. 
 
 -> If object and class have same name it is called companion objects and can use members of methord in companion object
 
--> objects are used in 3 types
+-> objects are used in 2 types
 
-	2) Companion object
-	3) standalone object  
+	1) Companion object
+	2) standalone object  
 
 -> Any singleton object with a main method of the proper signature can be used as the entry point into an application.
 
 ->one way in which Scala is more object-oriented than Java is that classes in Scala cannot have static member.
 
-->One difference between classes and singleton objects is that singleton ob- jects cannot take parameters, whereas classes can via primary and auxiliary constructors.
+->One difference between classes and singleton objects is that singleton objects cannot take parameters, whereas classes can via primary and auxiliary constructors.
 
 ->You never have to instantiate a singleton object with the new keyword. Singleton objects are implemented as static values, so they have the same initialization semantics as Java statics. In particular, a singleton object is initialized the first time someone accesses it.
+
+-> Need to define a value for a variable in scala always, unlike java
