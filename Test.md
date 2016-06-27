@@ -41,8 +41,8 @@
 
 
 **4) output of this for comprehension**
-
-      **for(i <- 1 to 3; j <- 1 to 3; if(i!=j)) println(5* i+j+"")**
+    
+   **for(i <- 1 to 3; j <- 1 to 3; if(i!=j)) println(5* i+j+"")**
 
 
 **5) What is the result type of a.flatten and a.flatmap**
