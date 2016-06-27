@@ -20,7 +20,7 @@
 
   **val a =(12 -> "2")**
   
- ** a match {**
+ **a match {**
   **case(12, x:String) => 12+x**
   **case _             => 34**
   **}**
