@@ -114,3 +114,13 @@
   
   println (b)
   
+  options
+  
+  a) a
+  
+  b) Hello
+  
+  c) HelloString
+  
+  d) Error
+  
