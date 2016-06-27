@@ -40,18 +40,18 @@
     f)None
 
 
-**4) output of this for comprehension
+**4) output of this for comprehension**
 
-      for(i <- 1 to 3; j <- 1 to 3; if(i!=j)) println(5* i+j+"")**
+      **for(i <- 1 to 3; j <- 1 to 3; if(i!=j)) println(5* i+j+"")**
 
 
-**5) What is the result type of a.flatten and a.flatmap
+**5) What is the result type of a.flatten and a.flatmap**
       
-      val a =List(List("A"),List("B"))
+      **val a =List(List("A"),List("B"))**
       
-      scala> a.flatten
+      **scala> a.flatten**
       
-      scala> a.flatMap{x => x }**
+      **scala> a.flatMap{x => x }**
 
 
 **6)  What is the output of this operation List(1)::List(2,3)**
@@ -61,13 +61,13 @@
       b) List(2,3,1)
         
       c) List(List(1), 2, 3)                                                                                                                                                                                                                                                          
-**7) What is value of x and y ?
+**7) What is value of x and y ?**
 
-      scala> var x:Int =10
+      **scala> var x:Int =10**
       
-      scala> var y:Int =20
+      **scala> var y:Int =20**
       
-      scala> x=y=10**
+      **scala> x=y=10**
   
   
           a) 10 and 20
@@ -82,11 +82,11 @@
 
 **8) What is the output return type of this function**
 
-      def fun(a: (Int => String =>Long => Int => Float)) = a(1)("hello") 
+      **def fun(a: (Int => String =>Long => Int => Float)) = a(1)("hello")** 
 
-**9) What is the output of this
+**9) What is the output of this**
 
-      for (i<-"scala";j <- 0 to 1)yield (i+j).toChar**
+      **for (i<-"scala";j <- 0 to 1)yield (i+j).toChar**
   
       a) stcdablmab
       
