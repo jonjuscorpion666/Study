@@ -16,14 +16,14 @@
       d) import fruits.{apple => _,_}
 
 
-**3)What is my output
+**3)What is my output**
 
-  val a =(12 -> "2")
+  **val a =(12 -> "2")**
   
-  a match {
-  case(12, x:String) => 12+x
-  case _             => 34
-  }**
+ ** a match {**
+  **case(12, x:String) => 12+x**
+  **case _             => 34**
+  **}**
     
     Options
     
