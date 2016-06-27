@@ -44,6 +44,14 @@
 **4) output of this for comprehension**
     
    **for(i <- 1 to 3; j <- 1 to 3; if(i!=j)) println(5* i+j+"")**
+   
+   a) 7 8 11 13 16 17
+   
+   b) 8 12 13 16 17 18
+   
+   c)17 16 13 11 8 7
+   
+   d) Compilation Error
 
 
 **5) What is the result type of a.flatten and a.flatmap**
