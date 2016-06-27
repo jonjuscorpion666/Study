@@ -1,12 +1,11 @@
 ### Review
 
-1)What is the output of this function 
+**1)What is the output of this function**
 
 def h(){"Hello"}
 
 
-2)
-Which of the following is valid import and why 
+**2)Which of the following is valid import and why **
 
 a) import fruits.{apple => Mac, _}
 
@@ -17,8 +16,7 @@ c) import fruits.{apple => SQl}
 d) import fruits.{apple => _,_}
 
 
-3)
-What is my output
+**3)What is my output**
 
 val a =(12 -> "2")
 
@@ -42,7 +40,7 @@ e)122
 f)None
 
 
-4) output of this for comprehension
+** 4) output of this for comprehension**
 
 for(i <- 1 to 3; j <- 1 to 3; if(i!=j)) println(5* i+j+"")
 
