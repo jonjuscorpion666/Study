@@ -8,10 +8,13 @@ def h(){"Hello"}
 2)
 Which of the following is valid import and why 
 
-import fruits.{apple => Mac, _}
-import fruits.{apple => _, .}
-import fruits.{apple => SQl}
-import fruits.{apple => _,_}
+a) import fruits.{apple => Mac, _}
+
+b) import fruits.{apple => _, .}
+
+c) import fruits.{apple => SQl}
+
+d) import fruits.{apple => _,_}
 
 
 3)
@@ -27,10 +30,15 @@ case _             => 34
 options
 
 a)34
+
 b)12
+
 c)1234
+
 d)14
+
 e)122
+
 f)None
 
 
@@ -54,5 +62,48 @@ a) List(1,2,3)
 
 b) List(2,3,1)
 
-c) List(List(1), 2, 3)                                                                                                                                                                                                                                                                                                                                                                                                                                            
+c) List(List(1), 2, 3)                                                                                                                                                                                                                                                          
+7) What is value of x and y ?
 
+scala> var x:Int =10
+
+scala> var y:Int =20
+
+scala> x=y=10
+  
+  
+  a) 10 and 20
+  
+  b) 20 and 10
+  
+  c) 10 and 10 
+  
+  d) compilation error
+  
+  e)none of the above 
+
+8) What is the output return type of this function 
+
+def fun(a: (Int => String =>Long => Int => Float)) = a(1)("hello") 
+
+9) What is the output of this 
+
+for (i<-"scala";j <- 0 to 1)yield (i+j).toChar
+  
+  a) stcdablmab
+  
+  b) vector(s,c,a,l,a,0,1)
+  
+  c)vector('s0','s1','c0','c1','a0','a1','l0','l1','a0','a1')
+
+  d)s0s1c0c1a0a1l0l1a0a1
+  
+  
+10) what is the output
+    
+  val a="Hello"
+  val b= a:a.type
+  println (b)
+  
+  11)
+  
