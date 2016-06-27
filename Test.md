@@ -109,6 +109,8 @@
 **10) what is the output**
     
   val a="Hello"
+  
   val b= a:a.type
+  
   println (b)
   
